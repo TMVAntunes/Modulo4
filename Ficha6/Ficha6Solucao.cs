@@ -87,7 +87,7 @@ namespace Ficha6
 
 
 
-        #region 
+        #region Exercicios resolvidos com recurso a funções auxiliares 
 
         public static void Exercicio2()
         {
@@ -203,10 +203,6 @@ namespace Ficha6
 
 
         #endregion
-
-
-
-
 
 
         //------------------------------------------------------------------------------
